@@ -12,10 +12,10 @@
     <artifactId>yismiles_ssm_untils</artifactId>
 
     <dependencies>
-        <dependency>
+      <!--  <dependency>
             <groupId>com.oracle</groupId>
             <artifactId>ojdbc14</artifactId>
             <version>11.2.0.1.0</version>
-        </dependency>
+        </dependency>-->
     </dependencies>
 </project>
